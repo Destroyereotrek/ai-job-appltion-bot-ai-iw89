@@ -1,4 +1,4 @@
-# 
+# Leve AI Job Application Bot plugins. Com treinamento de modelos e detecção de objetos — otimizado para máximo desempenho.
 
 
 
